@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lutfullah KAYNAK"
 title_separator          : "-"
-name                     : &name "Lutfullah"
+name                     : &name "Lutfullah KAYNAK"
 description              : &description "Software Engineer"
 url                      : https://tarzan45.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
